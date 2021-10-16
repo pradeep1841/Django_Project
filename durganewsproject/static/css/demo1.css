@@ -1,0 +1,26 @@
+h1{
+  color:white;
+  background: red;
+}
+.container .jumbotron{
+  background: red;
+  color:white;
+  margin-top:150px
+}
+body{
+
+background: url(https://thumbs.dreamstime.com/b/concept-open-magic-book-pages-water-land-small-child-fantasy-nature-learning-copy-space-166401875.jpg)
+}
+h1{
+  color: yellow;
+  text-align: center;
+}
+ul{
+   color: green;
+   font-size: 20px;
+}
+img{
+  height:250px;
+  width: 40%;
+  border: 5px solid red;
+}

@@ -1,0 +1,25 @@
+body{
+  background-repeat:no-repeat;
+  background-size: cover;
+  background: lightblue;
+}
+h1{
+  color:yellow;
+  text-align: center;
+  color: red;
+}
+td,table{
+  margin:auto;
+  border:2px solid red;
+  background: yellow;
+  font-size: 25px;
+}
+thead{
+  background: green;
+  color:white;
+}
+.container .jumbotron{
+  margin-top: 200px;
+  background: red;
+  color:white;
+}

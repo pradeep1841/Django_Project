@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+      <link rel="stylesheet" href="{% static 'css/demo1.css' %}">
+  </head>
+  <body>
+    <h1> {{head_msg}}</h1><hr>
+    <ul>
+      <li>{{msg1}}</li>
+      <li>{{msg2}}</li>
+      <li>{{msg3}}</li>
+    </ul>
+    <img src="{% static 'images/guido.jpg' %}" alt="">
+    <img src="{% static 'images/sunny.png' %}" alt="">
+  </body>
+</html>
